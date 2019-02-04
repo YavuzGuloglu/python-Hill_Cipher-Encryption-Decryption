@@ -1,4 +1,5 @@
-<h1> Python ile Hill Şifreleme <br></h1>
+Python ile Hill Şifreleme
+
 ### HİLL ŞİFRELEME
 **Şifrelerken; ilk olarak metin karakterleri ikili bloklara bölünerek blok blok ayrılır ve bunun üzerinden şifrelenir. Verilen anahtar 
 matrisi ile metindeki karakterler alfabede karşılık geldiği değerlerine göre çarpılır. 
